@@ -1,0 +1,27 @@
+//
+// Prefix header for all source files of the 'PrettyUtility' target in the 'PrettyUtility' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+//    #import <CoreMotion/CoreMotion.h>
+//    #import <AVFoundation/AVFoundation.h>
+//    #import <CoreLocation/CoreLocation.h>
+//    #import <AudioToolbox/AudioToolbox.h>
+    #include <QuartzCore/CoreAnimation.h>
+
+    #import <MapKit/MapKit.h>
+
+    //#import "B5M_Constant.h"
+    //#import "globalDefine.h"
+//    #import "b5mUtility.h"
+
+    #import "globalDefine.h"
+    #import "B5MUtility.h"
+    #import "B5MPreprocessorMacros.h"
+    #import "ASIHTTPRequest.h"
+    #import "Reachability.h"
+    #import "NSString+SBJSON.h"
+    #import "NSString+URLEncoding.h"
+#endif

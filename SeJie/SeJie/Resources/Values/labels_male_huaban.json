@@ -1,0 +1,110 @@
+ [
+  {
+  "key": "美食",
+  "urlname": "favorite/food_drink/",
+  "image": "http://cdn.b5m.com/upload/sejie/tags/1.jpg",
+  "children": [
+               {
+               "key": "旅游1",
+               "urlname": "favorite/travel_places/",
+               "image": "http://cdn.b5m.com/upload/sejie/tags/1.jpg",
+               "children": [
+                            {
+                            "key": "DIY",
+                            "urlname": "favorite/diy_crafts/"
+                            }
+                            ]
+               }
+               ]
+  },
+  {
+  "key": "平面设计",
+  "urlname": "favorite/design/",
+  "image": "http://cdn.b5m.com/upload/sejie/tags/1.jpg",
+  "children": [
+               {
+               "key": "旅游2",
+               "urlname": "favorite/travel_places/",
+               "image": "http://cdn.b5m.com/upload/sejie/tags/1.jpg",
+               "children": [
+                            {
+                            "key": "DIY",
+                            "urlname": "favorite/diy_crafts/"
+                            }
+                            ]
+               }
+               ]
+  },
+  {
+  "key": "UI/UX",
+  "urlname": "favorite/web_app_icon/",
+  "image": "http://cdn.b5m.com/upload/sejie/tags/1.jpg",
+  "children": [
+               {
+               "key": "旅游3",
+               "urlname": "favorite/travel_places/",
+               "image": "http://cdn.b5m.com/upload/sejie/tags/1.jpg",
+               "children": [
+                            {
+                            "key": "DIY",
+                            "urlname": "favorite/diy_crafts/"
+                            }
+                            ]
+               }
+               ]
+  },
+  {
+  "key": "插画/漫画",
+  "urlname": "favorite/illustration/",
+  "image": "http://cdn.b5m.com/upload/sejie/tags/1.jpg",
+  "children": [
+               {
+               "key": "旅游4",
+               "urlname": "favorite/travel_places/",
+               "image": "http://cdn.b5m.com/upload/sejie/tags/1.jpg",
+               "children": [
+                            {
+                            "key": "DIY",
+                            "urlname": "favorite/diy_crafts/"
+                            }
+                            ]
+               }
+               ]
+  },
+  {
+  "key": "服装",
+  "urlname": "favorite/apparel/",
+  "image": "http://cdn.b5m.com/upload/sejie/tags/1.jpg",
+  "children": [
+               {
+               "key": "旅游5",
+               "urlname": "favorite/travel_places/",
+               "image": "http://cdn.b5m.com/upload/sejie/tags/1.jpg",
+               "children": [
+                            {
+                            "key": "DIY",
+                            "urlname": "favorite/diy_crafts/"
+                            }
+                            ]
+               }
+               ]
+  },
+  {
+  "key": "家居",
+  "urlname": "favorite/home/",
+  "image": "http://cdn.b5m.com/upload/sejie/tags/1.jpg",
+  "children": [
+               {
+               "key": "旅游6",
+               "urlname": "favorite/travel_places/",
+               "image": "http://cdn.b5m.com/upload/sejie/tags/1.jpg",
+               "children": [
+                            {
+                            "key": "DIY",
+                            "urlname": "favorite/diy_crafts/"
+                            }
+                            ]
+               }
+               ]
+  }
+  ]
